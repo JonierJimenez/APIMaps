@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".EdicionActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Codigo: "
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/edtid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_input"
+            android:ems="10"
+            android:hint="Codigo"
+            android:inputType="textPersonName"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+
+
+    <EditText
+        android:id="@+id/edtnombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Nombre"
+        android:background="@drawable/custom_input"
+        android:paddingLeft="10dp"
+        android:paddingVertical="10dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"/>
+
+
+    <EditText
+        android:id="@+id/edtdepartamento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custom_input"
+        android:ems="10"
+        android:hint="Departamento"
+        android:inputType="textPersonName"
+        android:paddingVertical="10dp"
+        android:paddingLeft="10dp"
+        android:textSize="20sp" />
+
+
+    <EditText
+        android:id="@+id/edtciudad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Ciudad"
+        android:background="@drawable/custom_input"
+        android:paddingLeft="10dp"
+        android:paddingVertical="10dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"/>
+
+
+    <EditText
+        android:id="@+id/edtdireccion2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custom_input"
+        android:ems="10"
+        android:hint="Direccion"
+        android:inputType="textPersonName"
+        android:paddingVertical="10dp"
+        android:paddingLeft="10dp"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/edtlatitud2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custom_input"
+        android:ems="10"
+        android:hint="Latitud (ej: 11.14268)"
+        android:inputType="numberSigned|numberDecimal"
+        android:paddingVertical="10dp"
+        android:paddingLeft="10dp"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/edtlongitud2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custom_input"
+        android:ems="10"
+        android:hint="Longitud (ej: -74.11565)"
+        android:inputType="numberSigned|numberDecimal"
+        android:paddingVertical="10dp"
+        android:paddingLeft="10dp"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnactualizar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_rounded"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/white"
+        android:text="ACTUALIZAR" />
+
+    <Button
+        android:id="@+id/btneliminar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_rounded"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/white"
+        android:text="ELIMINAR" />
+
+
+    <Button
+        android:id="@+id/btnvermapa2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_rounded"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/white"
+        android:text="MAPA" />
+
+    <Button
+        android:id="@+id/btnregresar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_rounded"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/white"
+        android:text="REGRESAR" />
+
+    <TextView
+        android:id="@+id/textViewMensajeError"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="#F60202" />
+</LinearLayout>

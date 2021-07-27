@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_maps2.xml",
+        "source": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\src\\main\\res\\layout\\activity_maps2.xml"
+    },
+    {
+        "merged": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_listado.xml",
+        "source": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\src\\main\\res\\layout\\activity_listado.xml"
+    },
+    {
+        "merged": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fila_almace.xml",
+        "source": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\src\\main\\res\\layout\\fila_almace.xml"
+    },
+    {
+        "merged": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\custom_infowindow.xml",
+        "source": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\src\\main\\res\\layout\\custom_infowindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_edicion.xml",
+        "source": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\src\\main\\res\\layout\\activity_edicion.xml"
+    },
+    {
+        "merged": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

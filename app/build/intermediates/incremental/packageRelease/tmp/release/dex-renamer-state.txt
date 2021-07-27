@@ -1,0 +1,4 @@
+#Tue Jul 27 16:25:44 COT 2021
+base.0=C\:\\Users\\jhoni\\Downloads\\corte3 android\\Cristian\\vERSION JHONIER\\TallerMAPA\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
